@@ -13,8 +13,7 @@ Hello!
 # Felix Scripts!
 
 If you have any issues contacts us on discord!
-
-# Discord: https://discord.gg/F5RxvTGM 
+# You can see preview in our discord! ( https://discord.gg/F5RxvTGM )
 
 This is first script made by Mintex
 We hope you all will ejoy in this script, its simple to use and usefull enough!
