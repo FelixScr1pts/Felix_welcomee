@@ -1,6 +1,7 @@
+# SCRIPT WORK ON ESX AND QB!
+
 Hello!
 
-# WELCOME
 *Clean And Best Ui & Ux
  Optimized
  Open source
