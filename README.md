@@ -1,5 +1,5 @@
 # SCRIPT WORK ON ESX AND QB!
-
+the script is new and will probably gets a lot of ubdates, in our discord, we will tell you all when this will be!
 Hello!
 
 *Clean And Best Ui & Ux
